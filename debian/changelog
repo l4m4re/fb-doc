@@ -1,3 +1,17 @@
+fb-doc (0.4.0.20170710-1~l4m4re) wheezy; urgency=low
+
+  * Forked DTJF's github version, rebuilt and comitted changes to github.
+
+ -- Arend Lammertink <lamare@gmail.com>  Mon, 10 Jul 2017 14:06:18 +0200
+
+fb-doc (0.4) wheezy; urgency=low
+
+  * Updated for cmakefbc 0.11.4
+  * Upgraded version to 0.4, since that is the internal version number.
+
+ -- Arend Lammertink <lamare@gmail.com>  Mon, 26 Sep 2016 17:49:27 +0200
+
+
 fb-doc (0.1) wheezy; urgency=low
 
   * Initial Release.
