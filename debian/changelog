@@ -1,3 +1,9 @@
+fb-doc (0.4.0.20170730) jessie; urgency=low
+
+  * Rebuild for Jessie.
+
+ -- Arend Lammertink <lamare@gmail.com>  Sun, 30 Jul 2017 11:06:04 +0000
+
 fb-doc (0.4.0.20170710-1~l4m4re) wheezy; urgency=low
 
   * Forked DTJF's github version, rebuilt and comitted changes to github.
